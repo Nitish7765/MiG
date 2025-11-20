@@ -1,2 +1,1 @@
-# MiG
-NGO's Website
+NGO_website
